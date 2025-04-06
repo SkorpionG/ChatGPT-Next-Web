@@ -6689,10 +6689,10 @@ nanoid@^3.3.6:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-nanoid@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.1.1.tgz#460b54040ee1b74198c656200a30d3d87d3c1f53"
-  integrity sha512-GJabIFYt5DiMPnl+sJYk7nuBMtGRmuKTaqsX1YLODLAcKdJPm8Kvnt/Bl5r0t52ybiMHC1kOKxDpdQZYwnu9rg==
+nanoid@^5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.1.2.tgz#b87c6cb6941d127a23b24dffc4659bba48b219d7"
+  integrity sha512-b+CiXQCNMUGe0Ri64S9SXFcP9hogjAJ2Rd6GdVxhPLRm7mhGaM7VgOvCAJ1ZshfHbqVDI3uqTI5C8/GaKuLI7g==
 
 natural-compare@^1.4.0:
   version "1.4.0"
